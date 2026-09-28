@@ -32,7 +32,7 @@
 
 
 
-// Solution: 
+// Solution:
 
 
 
